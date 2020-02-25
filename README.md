@@ -1,4 +1,4 @@
-# Deep_Learning_Coursera
+# Deep Learning Specialization by deeplearning.ai (Coursera)
 
 # Programming Assignments
 * Course 1: Neural Networks and Deep Learning
