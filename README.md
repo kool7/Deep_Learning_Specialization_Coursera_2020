@@ -8,4 +8,4 @@
 
 * Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
- * [Week 1 - Programming Assignment 1 - Initialization](https://github.com/kool7/Deep_Learning_Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
+  * [Week 1 - Programming Assignment 1 - Initialization](https://github.com/kool7/Deep_Learning_Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
