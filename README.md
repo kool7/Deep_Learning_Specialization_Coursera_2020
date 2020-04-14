@@ -10,4 +10,4 @@
 
   * [Week 1 - Programming Assignment 1 - Initialization](https://github.com/kool7/Deep_Learning_Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
   * [Week 1 - Programming Assignment 2 - Regularization](https://github.com/kool7/Deep_Learning_Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization_v2a.ipynb)
-  * [Week 1 - Programming Assignment 3 - Gradient Checking]()
+  * [Week 1 - Programming Assignment 3 - Gradient Checking](https://github.com/kool7/Deep_Learning_Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient%2BChecking%2Bv1.ipynb)
