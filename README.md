@@ -16,3 +16,7 @@
   * [Week 1 - Programming Assignment 3 - Gradient Checking](https://github.com/kool7/Deep_Learning_Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient%2BChecking%2Bv1.ipynb)
   * [Week 2 - Programming Assignment 1 - Optimization](https://github.com/kool7/Deep_Learning_Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization_methods_v1b.ipynb)
   * [Week 3 - Programming Assignment 1 - Tensorflow Tutorial](https://github.com/kool7/Deep_Learning_Specialization_Coursera_2020/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/TensorFlow_Tutorial_v3b.ipynb)
+
+* Course 3: Convolutional Neural Network
+ 
+  * [Week 1 - Programmin Assignment 1 - Convolutional Model: step by step](https://github.com/kool7/Deep_Learning_Specialization_Coursera_2020/blob/master/Convolutional%20Neural%20Network/Convolution_model_Step_by_Step_v2a.ipynb)
