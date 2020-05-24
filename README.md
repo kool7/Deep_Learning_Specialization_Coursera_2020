@@ -19,4 +19,5 @@
 
 * Course 3: Convolutional Neural Network
  
-  * [Week 1 - Programmin Assignment 1 - Convolutional Model: step by step](https://github.com/kool7/Deep_Learning_Specialization_Coursera_2020/blob/master/Convolutional%20Neural%20Network/Convolution_model_Step_by_Step_v2a.ipynb)
+  * [Week 1 - Programming Assignment 1 - Convolutional Model: step by step](https://github.com/kool7/Deep_Learning_Specialization_Coursera_2020/blob/master/Convolutional%20Neural%20Network/Convolution_model_Step_by_Step_v2a.ipynb)
+  * [Week 1 - Programming Assignment 2 - Convolutional Model: Application](https://github.com/kool7/Deep_Learning_Specialization_Coursera_2020/blob/master/Convolutional%20Neural%20Network/Convolution_model_Application_v1a.ipynb)
