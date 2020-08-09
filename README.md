@@ -25,3 +25,7 @@
   * [Week 3 - Programming Assignment 1 - Autonomous Driving Application: Car Detection](https://github.com/kool7/Deep_Learning_Specialization_Coursera_2020/blob/master/Convolutional%20Neural%20Network/week3/Autonomous_driving_application_Car_detection_v3a.ipynb)
   * [Week 4 - Programming Assignment 2 - Face Recognition](https://github.com/kool7/Deep_Learning_Specialization_Coursera_2020/blob/master/Convolutional%20Neural%20Network/week4/Face_Recognition_v3a.ipynb) [[fr_utils.py]](https://github.com/kool7/Deep_Learning_Specialization_Coursera_2020/blob/master/Convolutional%20Neural%20Network/week4/fr_utils.py)
   * [Week 4 - Programming Assignment 2 - Art generation with Neural Style Transfer](https://github.com/kool7/Deep_Learning_Specialization_Coursera_2020/blob/master/Convolutional%20Neural%20Network/week4/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb) [[nst_utils]](https://github.com/kool7/Deep_Learning_Specialization_Coursera_2020/blob/master/Convolutional%20Neural%20Network/week4/nst_utils.py)
+
+* Course 4: Sequence Models
+
+  * [Week 2 - Programming Assignment 1 - Operations on word vectors](https://github.com/kool7/Deep_Learning_Specialization_Coursera_2020/blob/master/Sequence%20Models/week%202/Operations_on_word_vectors_v2a.ipynb)
