@@ -30,4 +30,5 @@
   
   * [Week 1 - Programming Assignment 1 - Building a recurrent neural network]
   * [Week 1 - Programming Assignment 2 - Dinosaur Island - Character - Level Langauge Modelling](https://github.com/kool7/Deep_Learning_Specialization_Coursera_2020/blob/master/Sequence%20Models/week%201/Dinosaurus_Island_Character_level_language_model_final_v3b.ipynb)
+  * [Week 1 - Programming Assignment 3 - Jazz improvisation with LSTM]()
   * [Week 2 - Programming Assignment 1 - Operations on word vectors](https://github.com/kool7/Deep_Learning_Specialization_Coursera_2020/blob/master/Sequence%20Models/week%202/Operations_on_word_vectors_v2a.ipynb)
